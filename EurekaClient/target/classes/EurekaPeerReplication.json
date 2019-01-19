@@ -1,0 +1,12 @@
+{
+  "replicationList":
+  [
+    {
+      "appName":"%appName",
+      "id":"%ip:%appName:%UUID",
+      "lastDirtyTimestamp":"%dirtyStamp",
+      "status":"UP",
+      "action":"Heartbeat"
+    }
+  ]
+}
